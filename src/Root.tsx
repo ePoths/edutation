@@ -14,7 +14,6 @@ function Root() {
   return (
     <Container>
       <Header />
-      <H1>Hello, Words!</H1>
       <Outlet />
     </Container>
   );
